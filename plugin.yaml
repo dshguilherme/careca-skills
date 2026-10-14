@@ -1,6 +1,6 @@
 name: careca-skills
-version: 0.1.0
-description: Personal skill library for fleet orchestration, interview-driven execution, and critique workflows.
+version: 0.2.0
+description: Personal skill library for fleet orchestration, interview-driven execution, critique workflows, and project briefings.
 author: Guilherme Henrique da Silva (dshgu)
 license: MIT
 repository: https://github.com/dshguilherme/careca-skills
@@ -22,3 +22,4 @@ skills:
   - autonomous-ai-agents/polinate
   - autonomous-ai-agents/one-shot
   - autonomous-ai-agents/firing-squad
+  - productivity/birds-eye
