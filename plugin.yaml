@@ -1,0 +1,24 @@
+name: careca-skills
+version: 0.1.0
+description: Personal skill library for fleet orchestration, interview-driven execution, and critique workflows.
+author: Guilherme Henrique da Silva (dshgu)
+license: MIT
+repository: https://github.com/dshgu/careca-skills
+homepage: https://github.com/dshgu/careca-skills
+keywords:
+  - hermes
+  - skills
+  - fleet
+  - orchestra
+  - interview
+  - critique
+platforms:
+  - linux
+  - macos
+  - windows
+skills:
+  - autonomous-ai-agents/your-words
+  - autonomous-ai-agents/fleet-mode
+  - autonomous-ai-agents/polinate
+  - autonomous-ai-agents/one-shot
+  - autonomous-ai-agents/firing-squad
