@@ -1,6 +1,6 @@
 ---
 name: polinate
-description: Run a fleet health sweep: check lanes, restart stuck workers, verify capacity.
+description: "Run a fleet health sweep: check lanes, restart stuck workers, verify capacity."
 version: 0.1.0
 author: Guilherme Henrique da Silva (dshgu), Hermes Agent
 license: MIT
